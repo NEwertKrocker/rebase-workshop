@@ -16,28 +16,28 @@ This is just a base template for a README with `Lorem Ipsum`, used for the [Reba
 
 REQUIREMENTS
 ------------
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper eget. Eget arcu dictum varius duis. At imperdiet dui accumsan sit amet. Ullamcorper a lacus vestibulum sed arcu non odio. Aliquet eget sit amet tellus cras. Nibh praesent tristique magna sit amet purus gravida. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum.
+Doot do doot do doot INSPECTOR GADGET doot do doot do doot DOOT DOO (this is an example change to the readme, that I might practice rebase workflow). (But also, you KNOW that theme song was a bop.)
 
-RECOMMENDED MODULES
+DUCKTALES POSSIBILITIES
 -------------------
-- Eget nunc 
-- Scelerisque viverra mauris 
-- Vulputate enim 
-- Nulla aliquet 
-- Porttitor lacus
+- Racecars
+- Lasers
+- Aeroplanes
+- Solve a mystery
+- Rewrite history
 
 INSTALLATION
 ------------
-1. Eget duis at tellus at urna condimentum mattis pellentesque. 
-2. Ultricies mi quis hendrerit dolor magna. 
-3. Montes nascetur ridiculus mus mauris. 
-4. Accumsan tortor posuere ac ut consequat semper. 
-5. Id semper risus in hendrerit gravida rutrum. 
+1. Eget duis at tellus at urna condimentum mattis pellentesque.
+2. Ultricies mi quis hendrerit dolor magna.
+3. Montes nascetur ridiculus mus mauris.
+4. Accumsan tortor posuere ac ut consequat semper.
+5. Id semper risus in hendrerit gravida rutrum.
 6. Vel facilisis volutpat est velit egestas dui id.
 
 CONFIGURATION
 -------------
-Bibendum est ultricies integer quis auctor elit sed vulputate mi. Quis eleifend quam adipiscing vitae. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Nam libero justo laoreet sit amet cursus sit. Fames ac turpis egestas maecenas pharetra convallis. Vel fringilla est ullamcorper eget.
+Gummi bears -- bouncing here and there and everywhere -- high adventure that's beyond compare -- they are the Gummi Bears
 
 TROUBLESHOOTING
 ---------------
